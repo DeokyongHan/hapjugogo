@@ -1,0 +1,1 @@
+// 결과 확인 페이지 placeholder

@@ -1,0 +1,1 @@
+// Placeholder for local data handling or Firebase
