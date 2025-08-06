@@ -1,7 +1,7 @@
-import Home from './Home'
-// import Entry from './Entry'
-// import Result from './Result'
+// App.jsx
+import React from 'react';
+import Home from './Home';
 
-function App() {
-  return <Home />
+export default function App() {
+  return <Home />;
 }
